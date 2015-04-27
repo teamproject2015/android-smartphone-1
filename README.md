@@ -1,4 +1,4 @@
-# android5-smartphone
+# android-smartphone-1
 Project Coordinator: Valeria
 
 Environment: Android 5
