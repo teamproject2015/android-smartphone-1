@@ -1,2 +1,5 @@
 # android5-smartphone
-Valeria, Samsung Galaxy S6?
+Project Coordinator: Valeria
+Environment: Android 5
+Device Type: Smartphone
+Device: Samsung Galaxy S6?
