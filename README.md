@@ -1,2 +1,2 @@
 # android5-smartphone
-Valria, Samsung Galaxy S6?
+Valeria, Samsung Galaxy S6?
