@@ -5,4 +5,4 @@ Environment: Android 5
 
 Device Type: Smartphone
 
-Device: Samsung Galaxy S6?
+Device: LG Nexus 5
